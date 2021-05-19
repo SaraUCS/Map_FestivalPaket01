@@ -33,12 +33,6 @@
          "id":12,
          "name":"exit",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"..\/Lyon\/lyon.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -148,12 +142,6 @@
          "id":7,
          "name":"override",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"depth",
-                 "type":"int",
-                 "value":3
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
